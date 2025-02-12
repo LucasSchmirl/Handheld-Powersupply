@@ -19,6 +19,8 @@ It can be adjusted with a small screwdriver.
 
 ## Scematic
 
+Wired view of the product:
+![Wired view of the product](KeinLabor_Netzteil_pics/wiredView.jpg)
 
 ## Product demonstration
 This is the CAD-view from the outside:
