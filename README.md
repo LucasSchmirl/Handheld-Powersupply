@@ -18,6 +18,8 @@ It can be adjusted with a small screwdriver.
 - 1 x [Heat insert M3](https://www.amazon.de/Gewindeeinsatz-Einpressmutter-Gewindebuchsen-Kunststoff-Box-Kunststoffteiledurch/dp/B09B7F2XM3/ref=sr_1_5?__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&sr=8-5).
 
 ## Scematic
+See also Frizzing [file](scematic.fzz):
+![wiring scematic](KeinLabor_Netzteil_pics/scematic.png)
 
 Wired view of the product:
 ![Wired view of the product](KeinLabor_Netzteil_pics/wiredView.jpg)
