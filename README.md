@@ -3,6 +3,7 @@ Powersupply DC 0-18V (Handheld device)
 
 This device is an adjustable (0-18V) DC power supply.
 It uses two 9V 800mAh block Batteries.
+It can be adjusted with a small screwdriver.
 
 This is the CAD-view from the outside:
 
