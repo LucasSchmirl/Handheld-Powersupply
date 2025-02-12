@@ -4,6 +4,10 @@ This device is an adjustable (0-18V) DC power supply.
 It uses two 9V 800mAh block Batteries.
 It can be adjusted with a small screwdriver.
 
+This is the product from the front:
+
+![Image of the product (front)](KeinLabor_Netzteil_pics/DemoHandheld_1.jpeg)
+
 ## The following components are used:
 - All custom parts are printed with [CF-PLA](https://www.amazon.de/dp/B0CH36F58Y).
 - 2 x [9V block Batteries](https://www.amazon.de/gp/product/B08BJYJYW3/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1).
@@ -33,10 +37,6 @@ This is the CAD-view from the outside:
 This is the CAD-view from the inside:
 
 ![CAD-view of the product (inside)](KeinLabor_Netzteil_pics/CAD_2.png)
-
-This is the product from the front:
-
-![Image of the product (front)](KeinLabor_Netzteil_pics/DemoHandheld_1.jpeg)
 
 This is the product from the back:
 
